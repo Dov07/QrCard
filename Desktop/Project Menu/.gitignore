@@ -1,0 +1,21 @@
+# Üst dizinlerdeki tüm dosya ve klasörler
+../*
+../../*
+# Geçici dosyalar ve klasörler
+node_modules/
+.env
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+bin/
+obj/
